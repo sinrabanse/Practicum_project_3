@@ -1,9 +1,9 @@
 # Practicum_project_3
-My third project from Practicum course
+My third project from Practicum course. "Exploratory Data Analysis"
 
 What was used in the project: Python, Jupyter notebook. Libraries: pandas, matplotlib, seaborn.
 
-Project Description
+# Project Description
 
 I'm an analyst at Crankshaft List. Hundreds of free advertisements for used vehicles are published on our site every day. I need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
